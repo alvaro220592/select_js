@@ -1,0 +1,39 @@
+body {
+    background-color: #6943c2;
+}
+/* 
+.container {
+    margin: 100px auto;
+    background-color: #a6db82;
+    border-radius: 8px;
+    padding: 30px;
+} */
+
+.linhas {
+    /* border-top: solid #8d8d8d 1px;
+    border-right: solid #8d8d8d 1px;
+    border-left: solid #8d8d8d 1px; */
+
+}
+
+.mae {
+    
+    border-bottom: 1px solid #202020;
+    width: 100%;
+}
+
+.filha {
+    padding: 5px;
+    cursor: pointer;
+}
+
+
+.selected {
+    background-color: #e7830f;
+    color: white;
+}
+/*
+
+.d-none {
+    display: none;
+}  */
